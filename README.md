@@ -15,7 +15,7 @@
     
   - Modify `index.html` to change the names and links to point at your pages.
   
-  - Upload your resume in the place of `my_resume.pdf`
+  - keep your resume in main folder and name it `my_resume.pdf`
    
 # Particle Feature
 
