@@ -25,3 +25,5 @@ The particle feature was obtained with the help of this [particleground](https:/
 # References and Inspiration
 
 This template is a minimal form of the [Particle Jekyll Template](https://github.com/itsron717/ParticleGround-Portfolio).
+
+![image](https://user-images.githubusercontent.com/50794649/136978307-c3f386d9-52ac-41a3-9d74-95faa24cdcad.png)
